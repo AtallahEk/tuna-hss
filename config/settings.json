@@ -1,0 +1,33 @@
+{
+  "camera": {
+    "index": 0,
+    "width": 1280,
+    "height": 720,
+    "fps": 30
+  },
+  "system": {
+    "pan_min": 0,
+    "pan_max": 360,
+    "tilt_min": 0,
+    "tilt_max": 60,
+    "default_pan": 180,
+    "default_tilt": 30
+  },
+  "colors": {
+    "primary": "#0a0a0a",
+    "secondary": "#1a1a1a",
+    "accent": "#00ff88",
+    "danger": "#ff3366",
+    "warning": "#ffaa00",
+    "success": "#00cc66",
+    "info": "#0099ff",
+    "text": "#e0e0e0",
+    "border": "#333333"
+  },
+  "recording": {
+    "video_folder": "recordings",
+    "log_folder": "logs",
+    "video_codec": "mp4v",
+    "screen_fps": 30
+  }
+}

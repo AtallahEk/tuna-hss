@@ -1,0 +1,37 @@
+[22:18:46] [INFO] TUNA HSS Başlatılıyor...
+[22:18:46] [INFO] UI Oluşturuldu
+[22:18:57] [INFO] ▶ Sistem BAŞLATILDI
+[22:19:02] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:05] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:06] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:06] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:07] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:07] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:08] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:10] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:16] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:18] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:24] [CRITICAL] 🛑 ACİL DURDUR AKTİF!
+[22:19:31] [INFO] 🗑 Log paneli temizlendi
+[22:19:33] [INFO] 🗑 Log paneli temizlendi
+[22:19:46] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:46] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:48] [INFO] 🗑 Log paneli temizlendi
+[22:19:58] [INFO] 📹 Ekran kaydı başladı
+[22:19:58] [INFO] ⏹ Ekran kaydı durduruldu
+[22:19:59] [INFO] 🎥 Video kaydı başladı: None
+[22:20:00] [INFO] ⏹ Video kaydı durduruldu
+[22:21:43] [INFO] ❌ Uygulama kapatıldı
+[22:25:47] [INFO] TUNA HSS Başlatılıyor...
+[22:25:47] [INFO] UI Oluşturuldu
+[22:25:52] [INFO] 🗑 Log paneli temizlendi
+[22:26:00] [INFO] ▶ Sistem BAŞLATILDI
+[22:26:07] [INFO] 📹 Ekran kaydı başladı: recordings/screen_20251126_222607.mp4
+[22:26:09] [INFO] ⏹ Ekran kaydı durduruldu
+[22:26:10] [INFO] 🎥 Video kaydı başladı: recordings/video_20251126_222610.mp4
+[22:26:11] [INFO] ⏹ Video kaydı durduruldu

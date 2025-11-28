@@ -1,0 +1,453 @@
+[22:18:46] [INFO] TUNA HSS Başlatılıyor...
+[22:18:46] [INFO] UI Oluşturuldu
+[22:18:57] [INFO] ▶ Sistem BAŞLATILDI
+[22:19:02] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:05] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:06] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:06] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:07] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:07] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:08] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:10] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:16] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:17] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:18] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:19:24] [CRITICAL] 🛑 ACİL DURDUR AKTİF!
+[22:19:31] [INFO] 🗑 Log paneli temizlendi
+[22:19:33] [INFO] 🗑 Log paneli temizlendi
+[22:19:46] [INFO] 🤖 OTONOM MOD Aktif
+[22:19:46] [INFO] 🎮 MANUEL MOD Aktif
+[22:19:48] [INFO] 🗑 Log paneli temizlendi
+[22:19:58] [INFO] 📹 Ekran kaydı başladı
+[22:19:58] [INFO] ⏹ Ekran kaydı durduruldu
+[22:19:59] [INFO] 🎥 Video kaydı başladı: None
+[22:20:00] [INFO] ⏹ Video kaydı durduruldu
+[22:21:43] [INFO] ❌ Uygulama kapatıldı
+[22:25:47] [INFO] TUNA HSS Başlatılıyor...
+[22:25:47] [INFO] UI Oluşturuldu
+[22:25:52] [INFO] 🗑 Log paneli temizlendi
+[22:26:00] [INFO] ▶ Sistem BAŞLATILDI
+[22:26:07] [INFO] 📹 Ekran kaydı başladı: recordings/screen_20251126_222607.mp4
+[22:26:09] [INFO] ⏹ Ekran kaydı durduruldu
+[22:26:10] [INFO] 🎥 Video kaydı başladı: recordings/video_20251126_222610.mp4
+[22:26:11] [INFO] ⏹ Video kaydı durduruldu
+[22:26:19] [INFO] 💾 Log kaydedildi: C:/Users/ataal/Desktop/tuna-hss/src/tuna_log_20251126_222612.txt
+[22:26:22] [DEBUG] Pan: 179°
+[22:26:22] [DEBUG] Pan: 178°
+[22:26:22] [DEBUG] Pan: 177°
+[22:26:22] [DEBUG] Pan: 176°
+[22:26:22] [DEBUG] Pan: 175°
+[22:26:22] [DEBUG] Pan: 174°
+[22:26:22] [DEBUG] Pan: 173°
+[22:26:22] [DEBUG] Pan: 172°
+[22:26:22] [DEBUG] Pan: 171°
+[22:26:22] [DEBUG] Pan: 169°
+[22:26:22] [DEBUG] Pan: 168°
+[22:26:22] [DEBUG] Pan: 166°
+[22:26:22] [DEBUG] Pan: 165°
+[22:26:22] [DEBUG] Pan: 164°
+[22:26:22] [DEBUG] Pan: 163°
+[22:26:22] [DEBUG] Pan: 162°
+[22:26:22] [DEBUG] Pan: 161°
+[22:26:22] [DEBUG] Pan: 160°
+[22:26:22] [DEBUG] Pan: 159°
+[22:26:22] [DEBUG] Pan: 158°
+[22:26:22] [DEBUG] Pan: 157°
+[22:26:22] [DEBUG] Pan: 153°
+[22:26:22] [DEBUG] Pan: 150°
+[22:26:22] [DEBUG] Pan: 149°
+[22:26:22] [DEBUG] Pan: 148°
+[22:26:22] [DEBUG] Pan: 146°
+[22:26:22] [DEBUG] Pan: 145°
+[22:26:22] [DEBUG] Pan: 143°
+[22:26:22] [DEBUG] Pan: 139°
+[22:26:22] [DEBUG] Pan: 138°
+[22:26:22] [DEBUG] Pan: 136°
+[22:26:22] [DEBUG] Pan: 135°
+[22:26:22] [DEBUG] Pan: 134°
+[22:26:22] [DEBUG] Pan: 132°
+[22:26:22] [DEBUG] Pan: 129°
+[22:26:22] [DEBUG] Pan: 127°
+[22:26:22] [DEBUG] Pan: 126°
+[22:26:22] [DEBUG] Pan: 125°
+[22:26:22] [DEBUG] Pan: 124°
+[22:26:22] [DEBUG] Pan: 123°
+[22:26:22] [DEBUG] Pan: 122°
+[22:26:22] [DEBUG] Pan: 121°
+[22:26:22] [DEBUG] Pan: 119°
+[22:26:22] [DEBUG] Pan: 118°
+[22:26:22] [DEBUG] Pan: 117°
+[22:26:23] [DEBUG] Pan: 116°
+[22:26:23] [DEBUG] Pan: 115°
+[22:26:23] [DEBUG] Pan: 114°
+[22:26:23] [DEBUG] Pan: 113°
+[22:26:23] [DEBUG] Pan: 112°
+[22:26:23] [DEBUG] Pan: 109°
+[22:26:23] [DEBUG] Pan: 108°
+[22:26:23] [DEBUG] Pan: 107°
+[22:26:23] [DEBUG] Pan: 106°
+[22:26:23] [DEBUG] Pan: 104°
+[22:26:23] [DEBUG] Pan: 103°
+[22:26:23] [DEBUG] Pan: 102°
+[22:26:23] [DEBUG] Pan: 101°
+[22:26:23] [DEBUG] Pan: 100°
+[22:26:23] [DEBUG] Pan: 99°
+[22:26:23] [DEBUG] Pan: 98°
+[22:26:23] [DEBUG] Pan: 97°
+[22:26:23] [DEBUG] Pan: 96°
+[22:26:23] [DEBUG] Pan: 95°
+[22:26:23] [DEBUG] Pan: 94°
+[22:26:23] [DEBUG] Pan: 93°
+[22:26:23] [DEBUG] Pan: 92°
+[22:26:23] [DEBUG] Pan: 91°
+[22:26:23] [DEBUG] Pan: 90°
+[22:26:23] [DEBUG] Pan: 89°
+[22:26:23] [DEBUG] Pan: 88°
+[22:26:23] [DEBUG] Pan: 87°
+[22:26:23] [DEBUG] Pan: 86°
+[22:26:23] [DEBUG] Pan: 83°
+[22:26:23] [DEBUG] Pan: 82°
+[22:26:23] [DEBUG] Pan: 81°
+[22:26:23] [DEBUG] Pan: 80°
+[22:26:23] [DEBUG] Pan: 79°
+[22:26:23] [DEBUG] Pan: 78°
+[22:26:23] [DEBUG] Pan: 77°
+[22:26:23] [DEBUG] Pan: 75°
+[22:26:23] [DEBUG] Pan: 74°
+[22:26:23] [DEBUG] Pan: 73°
+[22:26:23] [DEBUG] Pan: 72°
+[22:26:23] [DEBUG] Pan: 71°
+[22:26:23] [DEBUG] Pan: 70°
+[22:26:23] [DEBUG] Pan: 69°
+[22:26:23] [DEBUG] Pan: 68°
+[22:26:23] [DEBUG] Pan: 67°
+[22:26:23] [DEBUG] Pan: 66°
+[22:26:23] [DEBUG] Pan: 65°
+[22:26:23] [DEBUG] Pan: 64°
+[22:26:23] [DEBUG] Pan: 63°
+[22:26:23] [DEBUG] Pan: 62°
+[22:26:23] [DEBUG] Pan: 52°
+[22:26:23] [DEBUG] Pan: 51°
+[22:26:23] [DEBUG] Pan: 49°
+[22:26:23] [DEBUG] Pan: 47°
+[22:26:23] [DEBUG] Pan: 45°
+[22:26:23] [DEBUG] Pan: 44°
+[22:26:23] [DEBUG] Pan: 43°
+[22:26:23] [DEBUG] Pan: 42°
+[22:26:23] [DEBUG] Pan: 43°
+[22:26:23] [DEBUG] Pan: 44°
+[22:26:23] [DEBUG] Pan: 45°
+[22:26:23] [DEBUG] Pan: 46°
+[22:26:23] [DEBUG] Pan: 48°
+[22:26:23] [DEBUG] Pan: 49°
+[22:26:23] [DEBUG] Pan: 50°
+[22:26:23] [DEBUG] Pan: 51°
+[22:26:23] [DEBUG] Pan: 52°
+[22:26:23] [DEBUG] Pan: 53°
+[22:26:23] [DEBUG] Pan: 54°
+[22:26:23] [DEBUG] Pan: 55°
+[22:26:23] [DEBUG] Pan: 56°
+[22:26:23] [DEBUG] Pan: 59°
+[22:26:23] [DEBUG] Pan: 60°
+[22:26:23] [DEBUG] Pan: 61°
+[22:26:23] [DEBUG] Pan: 62°
+[22:26:23] [DEBUG] Pan: 64°
+[22:26:23] [DEBUG] Pan: 65°
+[22:26:23] [DEBUG] Pan: 66°
+[22:26:23] [DEBUG] Pan: 67°
+[22:26:23] [DEBUG] Pan: 68°
+[22:26:23] [DEBUG] Pan: 69°
+[22:26:23] [DEBUG] Pan: 70°
+[22:26:23] [DEBUG] Pan: 73°
+[22:26:23] [DEBUG] Pan: 75°
+[22:26:23] [DEBUG] Pan: 83°
+[22:26:23] [DEBUG] Pan: 91°
+[22:26:23] [DEBUG] Pan: 95°
+[22:26:23] [DEBUG] Pan: 96°
+[22:26:23] [DEBUG] Pan: 97°
+[22:26:23] [DEBUG] Pan: 98°
+[22:26:23] [DEBUG] Pan: 100°
+[22:26:23] [DEBUG] Pan: 101°
+[22:26:23] [DEBUG] Pan: 102°
+[22:26:23] [DEBUG] Pan: 103°
+[22:26:23] [DEBUG] Pan: 105°
+[22:26:23] [DEBUG] Pan: 107°
+[22:26:23] [DEBUG] Pan: 108°
+[22:26:23] [DEBUG] Pan: 109°
+[22:26:23] [DEBUG] Pan: 110°
+[22:26:23] [DEBUG] Pan: 111°
+[22:26:23] [DEBUG] Pan: 113°
+[22:26:23] [DEBUG] Pan: 114°
+[22:26:23] [DEBUG] Pan: 115°
+[22:26:23] [DEBUG] Pan: 116°
+[22:26:23] [DEBUG] Pan: 119°
+[22:26:23] [DEBUG] Pan: 120°
+[22:26:23] [DEBUG] Pan: 126°
+[22:26:23] [DEBUG] Pan: 127°
+[22:26:23] [DEBUG] Pan: 128°
+[22:26:23] [DEBUG] Pan: 130°
+[22:26:23] [DEBUG] Pan: 131°
+[22:26:23] [DEBUG] Pan: 132°
+[22:26:23] [DEBUG] Pan: 134°
+[22:26:23] [DEBUG] Pan: 135°
+[22:26:23] [DEBUG] Pan: 136°
+[22:26:23] [DEBUG] Pan: 137°
+[22:26:23] [DEBUG] Pan: 138°
+[22:26:23] [DEBUG] Pan: 139°
+[22:26:23] [DEBUG] Pan: 140°
+[22:26:23] [DEBUG] Pan: 141°
+[22:26:23] [DEBUG] Pan: 143°
+[22:26:23] [DEBUG] Pan: 144°
+[22:26:23] [DEBUG] Pan: 145°
+[22:26:23] [DEBUG] Pan: 146°
+[22:26:23] [DEBUG] Pan: 147°
+[22:26:23] [DEBUG] Pan: 148°
+[22:26:23] [DEBUG] Pan: 149°
+[22:26:23] [DEBUG] Pan: 150°
+[22:26:23] [DEBUG] Pan: 151°
+[22:26:23] [DEBUG] Pan: 152°
+[22:26:23] [DEBUG] Pan: 153°
+[22:26:23] [DEBUG] Pan: 154°
+[22:26:23] [DEBUG] Pan: 155°
+[22:26:23] [DEBUG] Pan: 156°
+[22:26:23] [DEBUG] Pan: 158°
+[22:26:23] [DEBUG] Pan: 159°
+[22:26:23] [DEBUG] Pan: 160°
+[22:26:23] [DEBUG] Pan: 161°
+[22:26:23] [DEBUG] Pan: 162°
+[22:26:23] [DEBUG] Pan: 164°
+[22:26:23] [DEBUG] Pan: 165°
+[22:26:23] [DEBUG] Pan: 166°
+[22:26:23] [DEBUG] Pan: 167°
+[22:26:23] [DEBUG] Pan: 168°
+[22:26:23] [DEBUG] Pan: 169°
+[22:26:23] [DEBUG] Pan: 170°
+[22:26:23] [DEBUG] Pan: 171°
+[22:26:23] [DEBUG] Pan: 173°
+[22:26:23] [DEBUG] Pan: 174°
+[22:26:23] [DEBUG] Pan: 175°
+[22:26:23] [DEBUG] Pan: 176°
+[22:26:23] [DEBUG] Pan: 177°
+[22:26:23] [DEBUG] Pan: 178°
+[22:26:23] [DEBUG] Pan: 179°
+[22:26:23] [DEBUG] Pan: 180°
+[22:26:23] [DEBUG] Pan: 181°
+[22:26:23] [DEBUG] Pan: 182°
+[22:26:23] [DEBUG] Pan: 183°
+[22:26:23] [DEBUG] Pan: 184°
+[22:26:23] [DEBUG] Pan: 185°
+[22:26:23] [DEBUG] Pan: 186°
+[22:26:23] [DEBUG] Pan: 187°
+[22:26:23] [DEBUG] Pan: 186°
+[22:26:23] [DEBUG] Pan: 185°
+[22:26:23] [DEBUG] Pan: 184°
+[22:26:23] [DEBUG] Pan: 183°
+[22:26:23] [DEBUG] Pan: 182°
+[22:26:23] [DEBUG] Pan: 181°
+[22:26:23] [DEBUG] Pan: 180°
+[22:26:23] [DEBUG] Pan: 179°
+[22:26:23] [DEBUG] Pan: 178°
+[22:26:23] [DEBUG] Pan: 177°
+[22:26:23] [DEBUG] Pan: 176°
+[22:26:23] [DEBUG] Pan: 175°
+[22:26:23] [DEBUG] Pan: 174°
+[22:26:23] [DEBUG] Pan: 171°
+[22:26:23] [DEBUG] Pan: 167°
+[22:26:23] [DEBUG] Pan: 166°
+[22:26:23] [DEBUG] Pan: 165°
+[22:26:23] [DEBUG] Pan: 164°
+[22:26:23] [DEBUG] Pan: 163°
+[22:26:23] [DEBUG] Pan: 162°
+[22:26:23] [DEBUG] Pan: 161°
+[22:26:23] [DEBUG] Pan: 160°
+[22:26:23] [DEBUG] Pan: 159°
+[22:26:23] [DEBUG] Pan: 157°
+[22:26:23] [DEBUG] Pan: 156°
+[22:26:23] [DEBUG] Pan: 153°
+[22:26:23] [DEBUG] Pan: 152°
+[22:26:23] [DEBUG] Pan: 151°
+[22:26:23] [DEBUG] Pan: 150°
+[22:26:23] [DEBUG] Pan: 149°
+[22:26:23] [DEBUG] Pan: 148°
+[22:26:23] [DEBUG] Pan: 147°
+[22:26:23] [DEBUG] Pan: 146°
+[22:26:23] [DEBUG] Pan: 145°
+[22:26:23] [DEBUG] Pan: 144°
+[22:26:23] [DEBUG] Pan: 142°
+[22:26:23] [DEBUG] Pan: 141°
+[22:26:23] [DEBUG] Pan: 140°
+[22:26:23] [DEBUG] Pan: 139°
+[22:26:23] [DEBUG] Pan: 138°
+[22:26:23] [DEBUG] Pan: 137°
+[22:26:23] [DEBUG] Pan: 136°
+[22:26:25] [DEBUG] Tilt: 20°
+[22:26:26] [DEBUG] Tilt: 30°
+[22:26:27] [DEBUG] Tilt: 40°
+[22:26:27] [DEBUG] Tilt: 39°
+[22:26:27] [DEBUG] Tilt: 49°
+[22:26:28] [DEBUG] Tilt: 59°
+[22:26:29] [INFO] 🤖 OTONOM MOD Aktif
+[22:26:39] [INFO] ⏸ Sistem DURDURULDU
+[22:26:42] [CRITICAL] 🛑 ACİL DURDUR AKTİF!
+[22:26:45] [INFO] ▶ Sistem BAŞLATILDI
+[22:26:51] [INFO] ⏸ Sistem DURDURULDU
+[22:26:52] [INFO] 🎮 MANUEL MOD Aktif
+[22:26:55] [WARNING] ❌ Ateş reddedildi: Sistem kapalı
+[22:27:00] [INFO] ❌ Uygulama kapatıldı
+[22:32:38] [INFO] TUNA HSS Başlatılıyor...
+[22:32:38] [INFO] UI Oluşturuldu
+[22:33:49] [WARNING] ❌ Ateş reddedildi: Sistem kapalı
+[22:33:55] [INFO] 🔇 Ses kapatıldı
+[22:33:56] [INFO] 🔊 Ses aktif
+[22:34:06] [INFO] TUNA HSS Başlatılıyor...
+[22:34:06] [INFO] UI Oluşturuldu
+[22:39:27] [INFO] TUNA HSS Başlatılıyor...
+[22:40:07] [INFO] TUNA HSS Başlatılıyor...
+[22:40:07] [INFO] UI Oluşturuldu
+[22:40:29] [INFO] ▶ Sistem BAŞLATILDI
+[22:40:44] [INFO] 🤖 OTONOM MOD Aktif
+[22:40:45] [INFO] 🎮 MANUEL MOD Aktif
+[22:40:53] [INFO] ❌ Uygulama kapatıldı
+[22:43:17] [INFO] TUNA HSS Başlatılıyor...
+[22:43:17] [INFO] UI Oluşturuldu
+[22:43:35] [INFO] 🤖 OTONOM MOD Aktif
+[22:43:35] [INFO] 🎮 MANUEL MOD Aktif
+[22:43:36] [INFO] 🤖 OTONOM MOD Aktif
+[22:43:36] [INFO] 🎮 MANUEL MOD Aktif
+[22:43:38] [INFO] 🤖 OTONOM MOD Aktif
+[22:43:39] [INFO] 🎮 MANUEL MOD Aktif
+[22:43:39] [INFO] 🤖 OTONOM MOD Aktif
+[22:43:41] [INFO] 🎮 MANUEL MOD Aktif
+[22:43:47] [INFO] ▶ Sistem BAŞLATILDI
+[22:43:52] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:43:53] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:43:54] [INFO] 🔥 ATEŞ AÇILDI! (Pan: 180°, Tilt: 30°)
+[22:43:56] [DEBUG] Pan: 215°
+[22:43:56] [DEBUG] Pan: 218°
+[22:43:56] [DEBUG] Pan: 222°
+[22:43:56] [DEBUG] Pan: 225°
+[22:43:56] [DEBUG] Pan: 232°
+[22:43:56] [DEBUG] Pan: 235°
+[22:43:56] [DEBUG] Pan: 239°
+[22:43:56] [DEBUG] Pan: 242°
+[22:43:56] [DEBUG] Pan: 246°
+[22:43:56] [DEBUG] Pan: 249°
+[22:43:56] [DEBUG] Pan: 253°
+[22:43:56] [DEBUG] Pan: 256°
+[22:43:56] [DEBUG] Pan: 260°
+[22:43:56] [DEBUG] Pan: 263°
+[22:43:56] [DEBUG] Pan: 267°
+[22:43:56] [DEBUG] Pan: 270°
+[22:43:56] [DEBUG] Pan: 273°
+[22:43:56] [DEBUG] Pan: 277°
+[22:43:56] [DEBUG] Pan: 280°
+[22:43:56] [DEBUG] Pan: 287°
+[22:43:56] [DEBUG] Pan: 291°
+[22:43:56] [DEBUG] Pan: 294°
+[22:43:56] [DEBUG] Pan: 298°
+[22:43:57] [DEBUG] Pan: 308°
+[22:43:58] [DEBUG] Pan: 298°
+[22:43:59] [DEBUG] Tilt: 29°
+[22:43:59] [DEBUG] Tilt: 28°
+[22:43:59] [DEBUG] Tilt: 27°
+[22:43:59] [DEBUG] Tilt: 26°
+[22:43:59] [DEBUG] Tilt: 25°
+[22:43:59] [DEBUG] Tilt: 24°
+[22:43:59] [DEBUG] Tilt: 23°
+[22:43:59] [DEBUG] Tilt: 22°
+[22:43:59] [DEBUG] Tilt: 21°
+[22:43:59] [DEBUG] Tilt: 20°
+[22:43:59] [DEBUG] Tilt: 19°
+[22:43:59] [DEBUG] Tilt: 18°
+[22:43:59] [DEBUG] Tilt: 17°
+[22:43:59] [DEBUG] Tilt: 16°
+[22:43:59] [DEBUG] Tilt: 15°
+[22:43:59] [DEBUG] Tilt: 14°
+[22:43:59] [DEBUG] Tilt: 13°
+[22:43:59] [DEBUG] Tilt: 12°
+[22:43:59] [DEBUG] Tilt: 11°
+[22:43:59] [DEBUG] Tilt: 10°
+[22:43:59] [DEBUG] Tilt: 11°
+[22:43:59] [DEBUG] Tilt: 12°
+[22:43:59] [DEBUG] Tilt: 13°
+[22:43:59] [DEBUG] Tilt: 14°
+[22:43:59] [DEBUG] Tilt: 15°
+[22:43:59] [DEBUG] Tilt: 16°
+[22:43:59] [DEBUG] Tilt: 17°
+[22:43:59] [DEBUG] Tilt: 18°
+[22:43:59] [DEBUG] Tilt: 19°
+[22:43:59] [DEBUG] Tilt: 20°
+[22:43:59] [DEBUG] Tilt: 21°
+[22:43:59] [DEBUG] Tilt: 22°
+[22:43:59] [DEBUG] Tilt: 23°
+[22:43:59] [DEBUG] Tilt: 24°
+[22:43:59] [DEBUG] Tilt: 25°
+[22:43:59] [DEBUG] Tilt: 26°
+[22:43:59] [DEBUG] Tilt: 27°
+[22:43:59] [DEBUG] Tilt: 28°
+[22:43:59] [DEBUG] Tilt: 29°
+[22:43:59] [DEBUG] Tilt: 30°
+[22:43:59] [DEBUG] Tilt: 31°
+[22:43:59] [DEBUG] Tilt: 32°
+[22:43:59] [DEBUG] Tilt: 33°
+[22:43:59] [DEBUG] Tilt: 34°
+[22:43:59] [DEBUG] Tilt: 35°
+[22:43:59] [DEBUG] Tilt: 39°
+[22:43:59] [DEBUG] Tilt: 40°
+[22:43:59] [DEBUG] Tilt: 42°
+[22:43:59] [DEBUG] Tilt: 43°
+[22:43:59] [DEBUG] Tilt: 44°
+[22:43:59] [DEBUG] Tilt: 45°
+[22:43:59] [DEBUG] Tilt: 46°
+[22:43:59] [DEBUG] Tilt: 45°
+[22:43:59] [DEBUG] Tilt: 44°
+[22:43:59] [DEBUG] Tilt: 43°
+[22:43:59] [DEBUG] Tilt: 42°
+[22:43:59] [DEBUG] Tilt: 41°
+[22:43:59] [DEBUG] Tilt: 40°
+[22:43:59] [DEBUG] Tilt: 39°
+[22:43:59] [DEBUG] Tilt: 38°
+[22:44:00] [DEBUG] Tilt: 37°
+[22:44:00] [DEBUG] Tilt: 36°
+[22:44:00] [DEBUG] Tilt: 35°
+[22:44:00] [DEBUG] Tilt: 34°
+[22:44:00] [DEBUG] Tilt: 33°
+[22:44:00] [DEBUG] Tilt: 32°
+[22:44:00] [DEBUG] Tilt: 31°
+[22:44:00] [DEBUG] Tilt: 30°
+[22:44:00] [DEBUG] Tilt: 29°
+[22:44:00] [DEBUG] Tilt: 28°
+[22:44:00] [DEBUG] Tilt: 27°
+[22:44:00] [DEBUG] Tilt: 26°
+[22:44:00] [DEBUG] Tilt: 25°
+[22:44:00] [DEBUG] Tilt: 24°
+[22:44:00] [DEBUG] Tilt: 23°
+[22:44:00] [DEBUG] Tilt: 22°
+[22:44:05] [INFO] ⛶ Tam ekran modu
+[22:44:06] [INFO] 🎨 Tema uygulandı: light
+[22:44:06] [INFO] 🎨 Tema değiştirildi: Aydınlık
+[22:44:09] [INFO] 🎨 Tema uygulandı: night
+[22:44:09] [INFO] 🎨 Tema değiştirildi: Gece Görüşü
+[22:44:09] [INFO] 🎨 Tema uygulandı: blue
+[22:44:09] [INFO] 🎨 Tema değiştirildi: Mavi
+[22:44:10] [INFO] 🎨 Tema uygulandı: dark
+[22:44:10] [INFO] 🎨 Tema değiştirildi: Karanlık
+[22:44:12] [INFO] 🎨 Tema uygulandı: light
+[22:44:12] [INFO] 🎨 Tema değiştirildi: Aydınlık
+[22:44:14] [INFO] 🎨 Tema uygulandı: night
+[22:44:14] [INFO] 🎨 Tema değiştirildi: Gece Görüşü
+[22:44:17] [INFO] ↕ Normal ekran
+[22:44:21] [INFO] ⛶ Tam ekran modu
+[22:44:35] [INFO] 🎨 Tema uygulandı: blue
+[22:44:35] [INFO] 🎨 Tema değiştirildi: Mavi
+[22:44:36] [INFO] 🎨 Tema uygulandı: dark
+[22:44:36] [INFO] 🎨 Tema değiştirildi: Karanlık
+[22:44:41] [INFO] 🔇 Ses kapatıldı
+[22:44:44] [CRITICAL] 🛑 ACİL DURDUR AKTİF!
+[22:45:12] [INFO] 🗑 Log paneli temizlendi
+[22:45:24] [INFO] ↕ Normal ekran
+[22:45:25] [INFO] ❌ Uygulama kapatıldı
